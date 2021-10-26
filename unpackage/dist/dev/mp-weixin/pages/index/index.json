@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人简历",
+  "usingComponents": {
+    "header": "/components/header",
+    "show-main": "/components/showMain/ShowMain",
+    "swiper-item": "/components/Swiper/SwiperItem"
+  }
+}

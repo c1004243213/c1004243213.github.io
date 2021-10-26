@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "interest": "/pages/interest/index",
+    "skill": "/pages/skill/index"
+  }
+}

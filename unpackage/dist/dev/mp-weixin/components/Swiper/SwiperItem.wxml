@@ -1,0 +1,1 @@
+<view class="container"><swiper class="swiper" indicator-dots="{{true}}" circular="{{true}}" autoplay="{{true}}"><block wx:for="{{groups}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><swiper-item class="swiper_item"><image src="{{'../../static/job/logo'+item.data+'.jpg'}}"></image></swiper-item></block></swiper></view>
